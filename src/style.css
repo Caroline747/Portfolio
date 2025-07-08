@@ -1,0 +1,27 @@
+body.dark-mode {
+  background-color: #faeee7;
+  color: #f1f1f1;
+}
+.dark-mode .bg-white,
+.dark-mode .bg-body-tertiary {
+  background-color: #1e1e1e !important;
+}
+.dark-mode .text-dark {
+  color: #f1f1f1 !important;
+}
+.dark-mode .card {
+  background-color: #2a2a2a;
+  color: #fff;
+}
+
+.bg-body-tertiary,
+.bg-white,
+.bg-light {
+  background-color: #faeee7 !important;
+}
+
+.btn-primary, .btn-success {
+  background-color: #ff8ba7 !important;
+    border-color: #ff8ba7 !important;
+    color: #33272a !important;
+}
